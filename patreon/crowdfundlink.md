@@ -4,6 +4,8 @@ description: 公开通道，含国内、国外平台
 
 # 众筹通道
 
+### 目前众筹平台为：
+
 {% tabs %}
 {% tab title="爱发电" %}
 {% hint style="info" %}
@@ -15,17 +17,28 @@ description: 公开通道，含国内、国外平台
 
 {% tab title="Patreon" %}
 {% hint style="info" %}
-平台抽成更少，支付需要信用卡、Paypal等
+支付需要信用卡、Paypal等，因抽成及手续费提升暂不推荐使用
 {% endhint %}
 
 [Patreon 链接](https://www.patreon.com/mitchx7)
 {% endtab %}
 {% endtabs %}
 
-目前众筹档位为：
+### 目前众筹档位为：
 
-* 6 元 \(或 1 美元\)/月 =&gt; 1 \* 众筹用户身份 =&gt; 使用功能 CD 减半
-* 12 元 \(或 2 美元\)/月（测试价格） =&gt; 1 \* 众筹用户身份 + 1 \* 申请狗条承太郎入群 =&gt; 个人使用功能 CD 减半 + 狗条承太郎加入指定群
+{% tabs %}
+{% tab title="6元/月" %}
+1 \* 众筹用户身份
+
+（效果为使用功能 CD 减半、次数加倍）
+{% endtab %}
+
+{% tab title="12元/月" %}
+1 \* 狗条承太郎进入指定群
+
+1 \* 众筹用户身份
+{% endtab %}
+{% endtabs %}
 
 
 
