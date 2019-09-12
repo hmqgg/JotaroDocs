@@ -4,7 +4,7 @@ description: 公开通道，含国内、国外平台
 
 # 众筹通道
 
-### 目前众筹平台为：
+### 众筹平台
 
 {% tabs %}
 {% tab title="爱发电" %}
@@ -24,7 +24,7 @@ description: 公开通道，含国内、国外平台
 {% endtab %}
 {% endtabs %}
 
-### 目前众筹档位为：
+### 众筹档位
 
 {% tabs %}
 {% tab title="6元/月" %}
