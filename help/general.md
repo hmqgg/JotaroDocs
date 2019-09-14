@@ -60,7 +60,7 @@ description: 各种一般用途的功能
 
 
 
-禁言: `.mute @QQ`
+#### 禁言: `.mute @QQ`
 
 * `.brother`相关指令为群主管理老大哥
   * 群主使用`.brother add @QQ`添加老大哥，老大哥可以使用`.mute`和`.unmute`指令
