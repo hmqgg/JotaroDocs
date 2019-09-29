@@ -21,6 +21,7 @@ description: 各种娱乐向功能
 * 使用`.xrr rank [排名]`列出轮盘赌相应排名，目前支持的排名有：
   * Daily/每日勇士榜
   * Weekly/每周勇士榜
+  * AllTime/历史勇士榜
   * DailyDodge/每日传火榜
   * WeeklyDodge/每周传火榜
   * European/欧皇榜
