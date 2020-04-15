@@ -9,8 +9,8 @@
 * [骰子功能](help/dice.md)
 * [查询功能](help/query.md)
 * [图片、音乐功能](help/imgmusic.md)
-* [创作功能](help/entertain.md)
-* [娱乐功能](help/entertain2.md)
+* [创作功能](help/creation.md)
+* [娱乐功能](help/entertainment.md)
 
 ## 消息推送 <a id="webhook"></a>
 
