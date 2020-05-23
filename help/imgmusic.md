@@ -11,13 +11,17 @@ description: 各种表情包、动图以及音乐发送等相关功能
 * 人脸反向检索指令: `.who [人像]`，以真人照片（如明星照片）检索相关人物信息
 * `[查询].jpg` 搜索静态的表情包，`[查询].gif`搜索动图表情包
 * Giphy 动图查询指令: `[查询].webp`搜索 Giphy 的动图（英文限定）
-* Pixiv 查询指令: `.pixiv [查询]` 
-  * 使用`.pixiv`随机发送一张 Pixiv 热图
-  * 使用`.pixiv rank ([排行榜])`发送对应排行榜的前三张图片（为空默认为每日榜），支持下列排行榜： Daily/Weekly/Monthly/DailyMale/DailyFemale 等
-  * 使用`.pixiv [ID]`发送对应ID的 Pixiv 图片
-  * 使用`.pixiv [查询]`搜索 Pixiv 对应 Tag 的图片，查询后缀添加`$`将从搜索结果中随机发送
 * ⚔ 使用图片查询、反向检索和表情包查询将计算 CD，众筹用户 CD 减半
 * ⚔ `.img`指令仅能用于图源检索，`.who`指令仅能用于真人人像检索，`.pic`指令仅能用于版权图片英文搜索，`.pixiv`指令仅能用于 Pixiv 日文搜索
+
+
+
+#### Pixiv 查询指令: `.pixiv [查询]` 
+
+* 使用`.pixiv`随机发送一张 Pixiv 热图
+* 使用`.pixiv rank ([排行榜])`发送对应排行榜的前三张图片（为空默认为每日榜），支持下列排行榜： Daily/Weekly/Monthly/DailyMale/DailyFemale 等
+* 使用`.pixiv [ID]`发送对应ID的 Pixiv 图片
+* 使用`.pixiv [查询]`搜索 Pixiv 对应 Tag 的图片，查询后缀添加`$`将从搜索结果中随机发送
 
 
 
