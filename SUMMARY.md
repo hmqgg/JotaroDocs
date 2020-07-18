@@ -23,5 +23,4 @@
 ## 众筹捐助 <a id="patreon"></a>
 
 * [众筹通道](patreon/crowdfundlink.md)
-* [限时开放测试入群](patreon/closedbeta.md)
 
